@@ -951,6 +951,9 @@ h1 svg {
 	input[type="reset"],
 	input[type="button"],
 	.button {
+		display:inline-block;
+		width: 250px;
+
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
